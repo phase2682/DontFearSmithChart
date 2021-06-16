@@ -1,5 +1,5 @@
 # DontFearSmithChart
-files to go along with blog 
+files to go along with blog Don't Fear the Smith Chart https://www.ai6xg.com/post/dont-fear-the-smith-chart
 
 .ssx and .s1p files for use with SimSmith for examples 1 and 2
 
